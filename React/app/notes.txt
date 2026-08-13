@@ -1,4 +1,4 @@
-React Mastering 
+React Mastering 2026
 
 1. Folder structure
 2. React - Basics 
