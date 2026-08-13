@@ -1,0 +1,14 @@
+React Mastering 
+
+1. Folder structure
+2. React - Basics 
+      JSX
+      Component
+      import / Export
+      Props , obj destructuring 
+      state - useState 
+      Data flow , Hooks
+      Working of react js 
+      Features of React js
+
+3. Project - Counter App 
