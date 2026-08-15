@@ -15,6 +15,7 @@ nav {
   justify-content: space-between;
   background-color: #1876f2;
   padding: 5px 5%;
+
 }
 
 .logo {
@@ -39,7 +40,7 @@ nav {
   width: 28px;
 }
 
-.user-profile {
+.user-profile img{
   border-radius: 50%;
   cursor: pointer;
   width: 40px;
@@ -65,4 +66,20 @@ nav {
   outline: none;
   border: 0;
   padding: 10px;
+}
+
+.online{
+  position: relative;
+}
+
+.online::after {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  background-color: #41db51;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
